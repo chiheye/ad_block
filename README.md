@@ -1,2 +1,2 @@
 # ad_block
-广告拦截清单
+adguard home广告拦截清单
