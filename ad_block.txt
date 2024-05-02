@@ -1,3 +1,11 @@
+!
+! Title: Ad_Block
+! Description: 适用于AdGuard的去广告合并规则，不定期更新一次。
+! Homepage: https://github.com/chiheye/ad_block
+! Source: https://raw.githubusercontent.com/chiheye/ad_block/main/ad_block.txt
+! Version: 20240502
+! Last modified: 20240502
+!
 ||3pp.starbucks.com.cn
 ||aag.enmonster.com
 ||activity.yonghuivip.com
